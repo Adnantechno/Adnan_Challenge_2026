@@ -1,0 +1,5 @@
+Model,Accuracy,Precision,Recall,F1
+XGBoost (supervised),0.9997,0.9789,0.9954,0.9871
+Isolation Forest (anomaly),0.9751,0.0469,0.0489,0.0479
+Combined: OR (semi-supervised),0.9869,0.4947,0.9954,0.6609
+CRF (sequence / PGM),0.9934,0.9098,0.7873,0.8441
